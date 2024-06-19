@@ -1,5 +1,5 @@
 const main = (): string => {
-  return 'Hello, World!'
+  return 'Initial feature!'
 }
 
 export default main
